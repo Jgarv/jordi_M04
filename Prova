@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pàgina d'Exemple</title>
+</head>
+<body>
+  <header>
+    <h1>Benvingut a la meva pàgina</h1>
+    <p>Aquesta és una pàgina d'exemple feta amb HTML.</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#seccio1">Secció 1</a></li>
+      <li><a href="#seccio2">Secció 2</a></li>
+      <li><a href="#seccio3">Secció 3</a></li>
+    </ul>
+  </nav>
+
+  <section id="seccio1">
+    <h2>Secció 1</h2>
+    <p>Contingut de la primera secció.</p>
+  </section>
+
+  <section id="seccio2">
+    <h2>Secció 2</h2>
+    <p>Contingut de la segona secció.</p>
+  </section>
+
+  <section id="seccio3">
+    <h2>Secció 3</h2>
+    <p>Contingut de la tercera secció.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 La meva Pàgina</p>
+  </footer>
+</body>
+</html>
